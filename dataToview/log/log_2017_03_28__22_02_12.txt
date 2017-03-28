@@ -1,0 +1,2 @@
+###myException whichstep:###连接数据库 log: e:(2003, "Can't connect to MySQL server on 'localhost' (10061)")
+###myException whichstep:###执行Mysql语句 log:SELECT * FROM view_classifykind_word_fre  WHERE classifykind_1 = 0 ORDER BY ck_frequency DESC LIMIT 10  e:'NoneType' object has no attribute 'cursor'

@@ -1,0 +1,3 @@
+python mywordcloud.py
+
+pause

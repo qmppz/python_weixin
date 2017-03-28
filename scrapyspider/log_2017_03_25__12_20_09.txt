@@ -1,0 +1,366 @@
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/1.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/2.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/3.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/4.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/5.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/6.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/7.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/8.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/9.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/10.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/11.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/12.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/13.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/14.html 
+正常--下一个链接 pageKind=0 url=http://weixin.sogou.com/pcindex/pc/pc_0/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/pc_1.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/1.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/2.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/3.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/4.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/5.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/6.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/7.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/8.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/9.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/10.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/11.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/12.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/13.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/14.html 
+正常--下一个链接 pageKind=1 url=http://weixin.sogou.com/pcindex/pc/pc_1/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/pc_2.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/1.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/2.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/3.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/4.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/5.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/6.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/7.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/8.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/9.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/10.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/11.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/12.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/13.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/14.html 
+正常--下一个链接 pageKind=2 url=http://weixin.sogou.com/pcindex/pc/pc_2/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/pc_3.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/1.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/2.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/3.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/4.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/5.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/6.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/7.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/8.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/9.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/10.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/11.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/12.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/13.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/14.html 
+正常--下一个链接 pageKind=3 url=http://weixin.sogou.com/pcindex/pc/pc_3/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/pc_4.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/1.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/2.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/3.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/4.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/5.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/6.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/7.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/8.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/9.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/10.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/11.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/12.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/13.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/14.html 
+正常--下一个链接 pageKind=4 url=http://weixin.sogou.com/pcindex/pc/pc_4/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/pc_5.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/1.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/2.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/3.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/4.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/5.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/6.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/7.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/8.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/9.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/10.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/11.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/12.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/13.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/14.html 
+正常--下一个链接 pageKind=5 url=http://weixin.sogou.com/pcindex/pc/pc_5/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/pc_6.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/1.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/2.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/3.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/4.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/5.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/6.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/7.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/8.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/9.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/10.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/11.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/12.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/13.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/14.html 
+正常--下一个链接 pageKind=6 url=http://weixin.sogou.com/pcindex/pc/pc_6/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/pc_7.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/1.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/2.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/3.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/4.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/5.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/6.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/7.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/8.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/9.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/10.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/11.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/12.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/13.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/14.html 
+正常--下一个链接 pageKind=7 url=http://weixin.sogou.com/pcindex/pc/pc_7/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/pc_8.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/1.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/2.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/3.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/4.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/5.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/6.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/7.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/8.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/9.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/10.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/11.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/12.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/13.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/14.html 
+正常--下一个链接 pageKind=8 url=http://weixin.sogou.com/pcindex/pc/pc_8/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/pc_9.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/1.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/2.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/3.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/4.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/5.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/6.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/7.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/8.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/9.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/10.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/11.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/12.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/13.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/14.html 
+正常--下一个链接 pageKind=9 url=http://weixin.sogou.com/pcindex/pc/pc_9/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/pc_10.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/1.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/2.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/3.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/4.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/5.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/6.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/7.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/8.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/9.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/10.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/11.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/12.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/13.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/14.html 
+正常--下一个链接 pageKind=10 url=http://weixin.sogou.com/pcindex/pc/pc_10/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/pc_11.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/1.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/2.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/3.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/4.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/5.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/6.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/7.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/8.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/9.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/10.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/11.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/12.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/13.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/14.html 
+正常--下一个链接 pageKind=11 url=http://weixin.sogou.com/pcindex/pc/pc_11/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/pc_12.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/1.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/2.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/3.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/4.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/5.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/6.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/7.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/8.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/9.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/10.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/11.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/12.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/13.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/14.html 
+正常--下一个链接 pageKind=12 url=http://weixin.sogou.com/pcindex/pc/pc_12/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/pc_13.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/1.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/2.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/3.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/4.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/5.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/6.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/7.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/8.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/9.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/10.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/11.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/12.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/13.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/14.html 
+正常--下一个链接 pageKind=13 url=http://weixin.sogou.com/pcindex/pc/pc_13/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/pc_14.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/1.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/2.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/3.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/4.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/5.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/6.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/7.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/8.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/9.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/10.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/11.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/12.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/13.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/14.html 
+正常--下一个链接 pageKind=14 url=http://weixin.sogou.com/pcindex/pc/pc_14/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/pc_15.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/1.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/2.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/3.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/4.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/5.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/6.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/7.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/8.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/9.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/10.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/11.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/12.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/13.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/14.html 
+正常--下一个链接 pageKind=15 url=http://weixin.sogou.com/pcindex/pc/pc_15/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/pc_16.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/1.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/2.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/3.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/4.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/5.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/6.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/7.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/8.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/9.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/10.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/11.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/12.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/13.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/14.html 
+正常--下一个链接 pageKind=16 url=http://weixin.sogou.com/pcindex/pc/pc_16/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/pc_17.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/1.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/2.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/3.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/4.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/5.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/6.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/7.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/8.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/9.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/10.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/11.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/12.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/13.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/14.html 
+正常--下一个链接 pageKind=17 url=http://weixin.sogou.com/pcindex/pc/pc_17/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/pc_18.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/1.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/2.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/3.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/4.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/5.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/6.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/7.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/8.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/9.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/10.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/11.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/12.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/13.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/14.html 
+正常--下一个链接 pageKind=18 url=http://weixin.sogou.com/pcindex/pc/pc_18/15.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/pc_19.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/1.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/2.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/3.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/4.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/5.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/6.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/7.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/8.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/9.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/10.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/11.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/12.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/13.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/14.html 
+正常--下一个链接 pageKind=19 url=http://weixin.sogou.com/pcindex/pc/pc_19/15.html 
+###[LOG] 异常 e=list index out of range
+
+--下一个链接 pageKind=20 url=http://weixin.sogou.com/pcindex/pc/pc_20/pc_20.html 
+###[LOG] 异常 e='str' object is not callable
+
+--下一个链接 pageKind=21 url=http://weixin.sogou.com/pcindex/pc/pc_21/pc_21.html 
+###[LOG] 异常 e='str' object is not callable
+
+爬取结束 pageKind=21

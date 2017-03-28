@@ -1,0 +1,28 @@
+【首页】
+http://weixin.sogou.com/
+
+【首页-热门】
+http://weixin.sogou.com/pcindex/pc/pc_0/pc_0.html
+
+【首页-推荐】
+http://weixin.sogou.com/pcindex/pc/pc_1/pc_1.html
+
+【首页-段子手】
+http://weixin.sogou.com/pcindex/pc/pc_2/pc_2.html
+
+【首页-汽车迷】
+http://weixin.sogou.com/pcindex/pc/pc_8/pc_8.html
+
+...............0-19  共二十
+
+【首页-体育迷 （第二十个）】
+http://weixin.sogou.com/pcindex/pc/pc_19/pc_19.html
+///////////////////////////////////////////////////////////////
+【翻页-第一次翻页】
+http://weixin.sogou.com/pcindex/pc/pc_19/1.html
+【翻页-第二次翻页】
+http://weixin.sogou.com/pcindex/pc/pc_19/2.html
+【翻页-第三次翻页】
+http://weixin.sogou.com/pcindex/pc/pc_19/3.html
+【翻页-第四次翻页】
+http://weixin.sogou.com/pcindex/pc/pc_19/4.html

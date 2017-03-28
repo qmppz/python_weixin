@@ -1,0 +1,4 @@
+###myException whichstep:--Begin 20001 - 40000 log: e:
+###myException whichstep:--No. 20005  String  log:duringtime:26     e:Speed:769.42  item/sec    Time-left:25.99    sec
+###myException whichstep:--No. 20010  String  log:duringtime:49     e:Speed:408.37  item/sec    Time-left:48.95    sec
+###myException whichstep:--No. 20015  String  log:duringtime:73     e:Speed:274.18  item/sec    Time-left:72.89    sec
